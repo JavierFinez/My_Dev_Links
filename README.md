@@ -2,7 +2,12 @@
 
 Repo for compiling interesting info and resources
 
-## BUNDLERS
+## ES6
+
+http://es6-features.org/#Constants
+https://2ality.com/2015/07/favorite-es6-features.html
+
+## BUNDLERS: WEBPACK, PARCEL
 
 https://blog.jakoblind.no/parcel-webpack/
 https://medium.com/js-imaginea/comparing-bundlers-webpack-rollup-parcel-f8f5dc609cfd
@@ -28,9 +33,15 @@ Webpack and parcel configurator:
 
 https://createapp.dev/
 
-## TRANSPILER
+https://www.sentinelstand.com/article/create-react-app-from-scratch-with-webpack-and-babel
+
+## TRANSPILER: BABEL
 
 https://babeljs.io/
+https://babeljs.io/docs/en/usage
+https://babeljs.io/repl
+https://github.com/babel/babel-loader
+https://babeljs.io/docs/en/babel-polyfill
 
 ## CSS-in-JS
 
