@@ -47,6 +47,8 @@ https://babeljs.io/docs/en/babel-polyfill
 
 https://sass-lang.com/
 
+http://getbem.com/
+
 https://www.styled-components.com/
 
 ## Linter
@@ -72,3 +74,13 @@ https://www.cypress.io/
 https://github.com/nfl/react-helmet
 https://developers.google.com/web/tools/workbox/
 https://zeit.co/home
+
+## REDUX
+
+https://platzi.com/blog/redux-no-esta-muerto/
+
+## NODE
+
+https://nodejs.org/es/
+https://nodemon.io/
+https://pm2.keymetrics.io/
