@@ -2,10 +2,15 @@
 
 Repo for compiling interesting info and resources
 
-## ES6
+## Javascript ES6
 
 http://es6-features.org/#Constants
 https://2ality.com/2015/07/favorite-es6-features.html
+https://kangax.github.io/compat-table/es6/
+
+https://github.com/rwaldron/idiomatic.js
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 ## BUNDLERS: WEBPACK, PARCEL
 
