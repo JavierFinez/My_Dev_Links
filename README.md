@@ -82,5 +82,18 @@ https://platzi.com/blog/redux-no-esta-muerto/
 ## NODE
 
 https://nodejs.org/es/
+https://nodejs.org/en/docs/
+
+https://github.com/sindresorhus/awesome-nodejs
+
+https://github.com/goldbergyoni/nodebestpractices?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+
+https://expressjs.com/en/4x/api.html
+https://docs.mongodb.com/manual/
+https://mongoosejs.com/docs/guide.html
+
 https://nodemon.io/
 https://pm2.keymetrics.io/
+
+
+
