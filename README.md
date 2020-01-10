@@ -4,6 +4,18 @@ Repo for compiling interesting info and resources
 
 ## Javascript ES6
 
+https://www.freecodecamp.org/news/what-programming-language-should-i-learn-first-19a33b0a467d/
+
+http://jsforcats.com/
+https://javascript.info/
+http://superherojs.com/
+https://eloquentjavascript.net/
+http://speakingjs.com/es5/
+https://exploringjs.com/es6/
+
+https://mbeaudru.github.io/modern-js-cheatsheet/
+
+
 http://es6-features.org/#Constants
 https://2ality.com/2015/07/favorite-es6-features.html
 https://kangax.github.io/compat-table/es6/
@@ -11,6 +23,14 @@ https://kangax.github.io/compat-table/es6/
 https://github.com/rwaldron/idiomatic.js
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+https://www.freecodecamp.org/news/best-javascript-tutorial-2/
+
+## Functional programming in JavaScript
+
+https://github.com/MostlyAdequate/mostly-adequate-guide
+https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
+
 
 ## BUNDLERS: WEBPACK, PARCEL
 
@@ -85,6 +105,8 @@ https://zeit.co/home
 https://platzi.com/blog/redux-no-esta-muerto/
 
 ## NODE
+
+https://nodejs.dev/
 
 https://nodejs.org/es/
 https://nodejs.org/en/docs/
