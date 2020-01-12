@@ -29,6 +29,7 @@ https://www.freecodecamp.org/news/best-javascript-tutorial-2/
 ## Functional programming in JavaScript
 
 https://github.com/MostlyAdequate/mostly-adequate-guide
+https://github.com/getify/Functional-Light-JS
 https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 
 
@@ -99,6 +100,10 @@ https://www.cypress.io/
 https://github.com/nfl/react-helmet
 https://developers.google.com/web/tools/workbox/
 https://zeit.co/home
+
+## REACT
+
+https://beautifulinteractions.github.io/beautiful-react-hooks/
 
 ## REDUX
 
